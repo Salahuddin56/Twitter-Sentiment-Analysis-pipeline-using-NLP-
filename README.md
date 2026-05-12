@@ -1,7 +1,7 @@
 # 🐦 Twitter Sentiment Analysis using DistilBERT + Logistic Regression
 
-> **Natural Language Processing (NLP) — MScCS Course Project**
-> Military Institute of Science and Technology (MIST), Dhaka, Bangladesh
+> **Natural Language Processing (NLP) — Course Project**
+> American International University - Bangladesh (AIUB), Dhaka, Bangladesh
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?logo=pytorch)
@@ -45,8 +45,8 @@ Instead of training a deep learning model from scratch, this project uses Distil
 |---|---|---|
 | Salahuddin Elias Khan | 23-93143-3 | Group 9 |
 
-**Course:** Natural Language Processing [MScCS] [A]
-**Institution:** Military Institute of Science and Technology (MIST), Dhaka, Bangladesh
+**Course:** Natural Language Processing 
+**American International University - Bangladesh (AIUB), Dhaka, Bangladesh
 
 ---
 
